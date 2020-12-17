@@ -1,5 +1,7 @@
 ## Welcome to Ontolo-CI
 
+> This is Hercules's fork of ontolo-ci. Please, find original sources at [weso/ontolo-ci](https://www.github.com/weso/ontolo-ci). 
+
 Ontolo-CI is a docker based system that integrates with GitHub to provide a continuos integration system for ontologies. It uses [Shape Expressions](http://shex.io) and test instances in order to validate ontologies.
 
 Although inspired in [Travis-CI](https://github.com/travis-ci/travis-ci) and many other continuos integration systems, Ontolo-CI is focused on develop continuos integration for ontologies. This is done by means of test instances and Shape Expressions. Furthermore, Ontolo-CI is integrated with GitHub, so you can add it as a check to Pull Requests or Pushes to different branches.
